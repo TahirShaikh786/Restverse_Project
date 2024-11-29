@@ -1,0 +1,222 @@
+[
+  {
+    "businessName": "Sunrise Cafe",
+    "address": {
+      "streetAddress": "123 Maple Street",
+      "city": "Springfield",
+      "state": "IL",
+      "postalCode": "62701",
+      "country": "US"
+    },
+    "latitude": 39.7817,
+    "longitude": -89.6501,
+    "phoneNumber": "+1 217-555-1234",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/71/b9/4a/20190131-114435-largejpg.jpg?w=1200&h=-1&s=1",
+    "websiteUrl": "https://www.sunrisecafe.com",
+    "categories": ["Cafe", "Restaurant"],
+    "openHours": "7:00 AM - 3:00 PM",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewerName": "Alice Johnson",
+        "rating": 5,
+        "comment": "Amazing coffee and friendly staff! Highly recommend.",
+        "date": "2024-11-01",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      },
+      {
+        "reviewerName": "Bob Smith",
+        "rating": 4,
+        "comment": "Great place for breakfast, but the seating can get crowded.",
+        "date": "2024-10-30",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "businessName": "Mountain View Gym",
+    "address": {
+      "streetAddress": "456 Elm Drive",
+      "city": "Boulder",
+      "state": "CO",
+      "postalCode": "80301",
+      "country": "US"
+    },
+    "latitude": 40.015,
+    "longitude": -105.27,
+    "phoneNumber": "+1 303-555-5678",
+    "img": "https://vitalentum.net/upload/007/u728/3/d/mountain-view-gym-with-exercise-equipment-photo-photos-big.webp",
+    "websiteUrl": "https://www.mountainviewgym.com",
+    "categories": ["Gym", "Fitness Center"],
+    "openHours": "5:00 AM - 10:00 PM",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewerName": "Chris Evans",
+        "rating": 5,
+        "comment": "State-of-the-art equipment and very clean facilities.",
+        "date": "2024-11-15",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      },
+      {
+        "reviewerName": "Dana White",
+        "rating": 4,
+        "comment": "Nice gym but can be busy during peak hours.",
+        "date": "2024-10-28",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "businessName": "Tech Haven Electronics",
+    "address": {
+      "streetAddress": "789 Silicon Way",
+      "city": "San Jose",
+      "state": "CA",
+      "postalCode": "95110",
+      "country": "US"
+    },
+    "latitude": 37.3382,
+    "longitude": -121.8863,
+    "phoneNumber": "+1 408-555-9876",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoDc-4ywWDoCedzPRBEnMU6gcy9x08MN7Qew&s",
+    "websiteUrl": "https://www.techhaven.com",
+    "categories": ["Electronics Store"],
+    "openHours": "10:00 AM - 8:00 PM",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "reviewerName": "Elliot Parker",
+        "rating": 4,
+        "comment": "Good selection of products, but the staff could be more helpful.",
+        "date": "2024-11-10",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      },
+      {
+        "reviewerName": "Fiona Carter",
+        "rating": 5,
+        "comment": "Excellent customer service and fair prices.",
+        "date": "2024-11-05",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "businessName": "Green Valley Organic Farm",
+    "address": {
+      "streetAddress": "321 Countryside Road",
+      "city": "Nashville",
+      "state": "TN",
+      "postalCode": "37201",
+      "country": "US"
+    },
+    "latitude": 36.1627,
+    "longitude": -86.7816,
+    "phoneNumber": "+1 615-555-4321",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpuzhIKH2_Sdu3xmHS3NXTQEOhnNfIkFTN2g&s",
+    "websiteUrl": "https://www.greenvalleyorganic.com",
+    "categories": ["Farm", "Organic Products"],
+    "openHours": "8:00 AM - 5:00 PM",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewerName": "George Miller",
+        "rating": 5,
+        "comment": "Fresh produce and a great atmosphere for family visits.",
+        "date": "2024-11-12",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      },
+      {
+        "reviewerName": "Hannah Lee",
+        "rating": 4,
+        "comment": "Prices are slightly high, but the quality is worth it.",
+        "date": "2024-11-01",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "businessName": "Downtown Dental",
+    "address": {
+      "streetAddress": "101 City Center Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "postalCode": "73301",
+      "country": "US"
+    },
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "phoneNumber": "+1 512-555-2468",
+    "img": "https://images.squarespace-cdn.com/content/v1/614a425fc819187fa0b35cd1/1632929793307-XD4RYXRNE15A6WDO66PS/IMG_5314.jpg",
+    "websiteUrl": "https://www.downtowndental.com",
+    "categories": ["Dental Clinic"],
+    "openHours": "9:00 AM - 6:00 PM",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewerName": "Ian Roberts",
+        "rating": 5,
+        "comment": "Friendly staff and great care during my visit.",
+        "date": "2024-11-18",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      },
+      {
+        "reviewerName": "Julia Walker",
+        "rating": 4,
+        "comment": "Quick service, but the waiting area could be improved.",
+        "date": "2024-10-25",
+        "replies": [
+          {
+            "userName": "",
+            "reply": ""
+          }
+        ]
+      }
+    ]
+  }
+]

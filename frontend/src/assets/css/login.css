@@ -1,0 +1,57 @@
+.loginBG{
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://tse2.mm.bing.net/th?id=OIG3.2V5eh6oTJRoycdMrN9UR&pid=ImgGn");
+}
+
+.loginContainer{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logininnerContainer{
+    width: 100%;
+    padding: 0.5rem;
+    font-style: italic;
+    border-radius: 0.5rem;
+    background-color: #f8f5f5d5;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logininnerContainer h1{
+    color: #39A2AE;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.logininnerContainer Button{
+    font-style: italic;
+    font-weight: 600;
+    background-color: #202020;
+}
+
+.google-login-custom {
+    background-color: var(--blue);
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 100%;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .google-login-custom:hover {
+    background-color: #357ae8;
+  }
+  
